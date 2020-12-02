@@ -1,6 +1,6 @@
 from assertpy import assertpy
 
-from .day1_report_repair import ReportRepair
+from .report_repair import ReportRepair
 
 
 def test_example_input_result():
